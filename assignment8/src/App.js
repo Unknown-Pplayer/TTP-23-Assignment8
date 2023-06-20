@@ -1,5 +1,5 @@
 import './App.css';
-import SearchField from 'SearchField';
+import SearchField from "./components/SearchField"
 
 function App() {
   return (
